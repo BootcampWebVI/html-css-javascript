@@ -21,7 +21,7 @@ nav ul li a span{display:block;font-size:.6rem;font-weight:bold;display: block;-
 nav:hover ul li a span{color:var(--font-color);-webkit-transform: translateX(0px);transform: translateX(0px);}
 /*[NAVIGATION STYLES END]*/
 /*[HEADER STYLES]*/
-main header#home{display:block;height:100vh;width:100%;background-image: url(/assets/home-bg.jpg);background-repeat: no-repeat;background-size: cover;background-position: center center;display:flex;align-items: center;}
+main header#home{display:block;height:100vh;width:100%;background-image: url(./assets/home-bg.jpg);background-repeat: no-repeat;background-size: cover;background-position: center center;display:flex;align-items: center;}
 main header .text-wrapper{display:block;position:relative;margin:0 auto;padding:50px;background-color:rgba(0,0,0,.5);font-size:2rem;border-radius:5px;}
 main header .text-wrapper h1{color:var(--palette-mid); margin:0px;}
 main header .text-wrapper h1 span{display:block;text-transform:uppercase;color:var(--contrast-color);margin-top:-10px;}
